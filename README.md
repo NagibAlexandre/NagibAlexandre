@@ -8,7 +8,7 @@
 
 </div>
 
-## My name is Nagib Alexandre (ING)
+## My name is Nagib Alexandre (ENG)
 I started in the world of computing at the age of 12 through programming schools aimed at young learners, and later completed a technical high school program in Information Technology at the Federal Institute of Minas Gerais.
 I am currently studying Computer Science at the Pontifical Catholic University of Minas Gerais.
 
